@@ -1,6 +1,12 @@
 Simple file server
 
 
+__Installation__:
+
+
+$ npm run build
+
+
 __Usage__:
 
 
